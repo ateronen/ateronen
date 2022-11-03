@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ateronen
-- 👀 I’m interested in music, history, motorcycles, gaming and various sports
+- 👀 I’m interested in music, history, motorcycles, videogames (+ chess!) and various sports
 - 🌱 I’m currently learning C#, PHP & React.js
 
 <!---
