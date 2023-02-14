@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ateronen
 - 👀 I’m interested in music, history, motorcycles, videogames (+ chess!) and various sports
-- 🌱 I’m currently learning Angular, React.js, C# & PHP
+- 🌱 I’m currently learning Angular, C# & PHP
 
 <!---
 ateronen/ateronen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
